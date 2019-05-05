@@ -114,7 +114,7 @@ xmrstak::coin_selection coins[] = {
 	{"cryptonight_lite_v7_xor", {POW(cryptonight_ipbc)}, {POW(cryptonight_aeon)}, nullptr},
 	{"cryptonight_r", {POW(cryptonight_r)}, {POW(cryptonight_r)}, nullptr},
 	{"cryptonight_superfast", {POW(cryptonight_superfast)}, {POW(cryptonight_gpu)}, nullptr},
-	{"cryptonight_turtle", {POW(cryptonight_turtle)}, {POW(cryptonight_turtle)}, nullptr},
+	{"cryptonight_catalans", {POW(cryptonight_catalans)}, {POW(cryptonight_catalans)}, nullptr},
 	{"cryptonight_v7", {POW(cryptonight_monero)}, {POW(cryptonight_gpu)}, nullptr},
 	{"cryptonight_v8", {POW(cryptonight_monero_v8)}, {POW(cryptonight_r)}, nullptr},
 	{"cryptonight_v8_double", {POW(cryptonight_v8_double)}, {POW(cryptonight_gpu)}, nullptr},
@@ -133,8 +133,8 @@ xmrstak::coin_selection coins[] = {
 	{"qrl", {POW(cryptonight_monero)}, {POW(cryptonight_gpu)}, nullptr},
 	{"ryo", {POW(cryptonight_gpu)}, {POW(cryptonight_gpu)}, "pool.ryo-currency.com:3333"},
 	{"stellite", {POW(cryptonight_v8_half)}, {POW(cryptonight_gpu)}, nullptr},
-	{"turtlecoin", {POW(cryptonight_turtle), 6u, POW(cryptonight_aeon)}, {POW(cryptonight_aeon)}, nullptr},
-	{"plenteum", {POW(cryptonight_turtle)}, {POW(cryptonight_turtle)}, nullptr},
+	{"catalanscoin", {POW(cryptonight_catalans), 6u, POW(cryptonight_aeon)}, {POW(cryptonight_aeon)}, nullptr},
+	{"plenteum", {POW(cryptonight_catalans)}, {POW(cryptonight_catalans)}, nullptr},
 	{"zelerius", {POW(cryptonight_v8_zelerius), 7, POW(cryptonight_monero_v8)}, {POW(cryptonight_gpu)}, nullptr},
 	{"xcash", {POW(cryptonight_v8_double)}, {POW(cryptonight_gpu)}, nullptr}};
 

@@ -454,7 +454,7 @@ bool minethd::self_test()
 			ctx[0]->hash_fn("", 0, out, ctx, algo);
 			bResult = bResult && memcmp(out, "\xb5\x54\x4b\x58\x16\x70\x26\x47\x63\x47\xe4\x1f\xb6\x5e\x57\xc9\x7c\xa5\x93\xfe\x0e\xb1\x0f\xb9\x2f\xa7\x3e\x5b\xae\xef\x79\x8c", 32) == 0;
 		}
-		else if(algo == POW(cryptonight_turtle))
+		else if(algo == POW(cryptonight_catalans))
 		{
 			func_selector(ctx, ::jconf::inst()->HaveHardwareAes(), false, algo);
 			ctx[0]->hash_fn("This is a test This is a test This is a test", 44, out, ctx, algo);

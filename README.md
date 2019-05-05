@@ -50,7 +50,7 @@ Besides [Monero](https://getmonero.org), following coins can be mined using this
 - [QRL](https://theqrl.org)
 - **[Ryo](https://ryo-currency.com) - Upcoming xmr-stak-gui is sponsored by Ryo**
 - [Stellite](https://stellite.cash/)
-- [TurtleCoin](https://turtlecoin.lol)
+- [CatalansCoin](https://catalanscoin.lol)
 - [Zelerius](https://zelerius.org/)
 - [X-CASH](https://x-network.io/)
 
@@ -59,7 +59,7 @@ Monero. See [here](https://github.com/fireice-uk/cryptonote-speedup-demo/) for d
 
 If your prefered coin is not listed, you can choose one of the following algorithms:
 - 256Kib scratchpad memory
-    - cryptonight_turtle
+    - cryptonight_catalans
 - 1MiB scratchpad memory
     - cryptonight_lite
     - cryptonight_lite_v7

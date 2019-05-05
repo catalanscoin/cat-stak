@@ -30,14 +30,14 @@ POOLCONF],
  *    monero (use this to support Monero's Oct 2018 fork)
  *    qrl - Quantum Resistant Ledger
  *    ryo
- *    turtlecoin
+ *    catalanscoin
  *    plenteum
  *    xcash
  *
  * Native algorithms which do not depend on any block versions:
  *
  *    # 256KiB scratchpad memory
- *    cryptonight_turtle
+ *    cryptonight_catalans
  *    # 1MiB scratchpad memory
  *    cryptonight_lite
  *    cryptonight_lite_v7
