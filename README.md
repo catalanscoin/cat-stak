@@ -50,7 +50,7 @@ Besides [Monero](https://getmonero.org), following coins can be mined using this
 - [QRL](https://theqrl.org)
 - **[Ryo](https://ryo-currency.com) - Upcoming xmr-stak-gui is sponsored by Ryo**
 - [Stellite](https://stellite.cash/)
-- [CatalansCoin](https://catalanscoin.lol)
+- [CatalansCoin](http://catalanscoin.com)
 - [Zelerius](https://zelerius.org/)
 - [X-CASH](https://x-network.io/)
 
